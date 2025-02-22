@@ -1,5 +1,5 @@
  # MNat.ai - Natural Disaster AI
- ![Logo](https://imgur.com/a/heBcjNi)
+ ![Logo](https://imgur.com/gallery/mnat-ai-logo-heBcjNi)
 
 **Table of Contents**
 1. [About the project](#about-the-project)
