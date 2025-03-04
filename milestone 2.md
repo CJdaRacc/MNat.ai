@@ -33,9 +33,9 @@
 | 4.3     | Final Integration | 216 | 7/30/2025 | 8/11/2025 | 4.2 |
 
 ## Gantt Chart & Network Diagram
-![gantt chart](/img/wbs(1).png)
+![gantt chart](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/gnattchrt.png)
 
-[Downloadable Project Management File](/documents/WIN%20Belize%20Project.mpp)
+[Downloadable Project Management File](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/Tasks-MNat.ai%20-%20Group%205%20-%203%20Mar%202025%20(2.36%20PM)(1).xlsx)
 
 ## Requirements
 
@@ -217,7 +217,7 @@ With natural disasters becoming more frequent and severe, there is a critical ne
 
 ## Use Cases Diagram
 
-// COME BACK TO FORMAT BETTER
+![Use Cases Diagram](https://github.com/CJdaRacc/MNat.ai/blob/main/Milestone%202/DFDChrt.png)
 
 ### Research on Other Systems
 
