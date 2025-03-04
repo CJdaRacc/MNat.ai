@@ -218,29 +218,27 @@
 | 4.2 Testing and Feedback        | 7/14/2025          | 7/29/2025           | 12 days          | 288           |
 | 4.3 Final Integration           | 7/30/2025          | 8/11/2025           | 9 days           | 216           |
 
-| Task Name                       | Planned Start Date | Planned Finish Date | Planned Duration | Planned Hours | Planned Cost |
-|---------------------------------|--------------------|---------------------|------------------|---------------|--------------|
-| 1. Project Management(PM)       | 2/25/2025          | 4/1/2025            | 25 days          | 744           | $42,665.00   |
-| 1.1 Project Initiation and Planning | 2/25/2025          | 3/10/2025           | 10 days          | 240           | $12,075.00   |
-| 1.2 Risk Management             | 3/10/2025          | 3/19/2025           | 8 days           | 192           | $5,865.00    |
-| 1.3 Stakeholder Communication   | 3/20/2025          | 3/31/2025           | 8 days           | 192           | $13,685.00   |
-| 1.4 Project Tracking and Reporting | 4/1/2025           | 4/1/2025            | 1 day            | 120           | $11,040.00   |
-| 2. Requirement Analysis and Planning | 4/1/2025           | 5/6/2025            | 26 days          | 624           | $50,140.00   |
-| 2.1 Gather Requirements         | 4/1/2025           | 4/11/2025           | 9 days           | 216           | $15,410.00   |
-| 2.2 Define System Functionalities | 4/14/2025          | 4/23/2025           | 8 days           | 192           | $17,365.00   |
-| 2.3 Document Data Storage Needs | 4/24/2025          | 5/6/2025            | 9 days           | 216           | $17,365.00   |
-| 3. System Design and Architeture | 5/14/2025          | 6/23/2025           | 29 days          | 816           | $64,745.00   |
-| 3.1 Database Design and Development | 5/14/2025          | 5/28/2025           | 11 days          | 264           | $23,862.50  |
-| 3.2 UI/UX Design and Testing    | 5/22/2025          | 6/6/2025            | 12 days          | 288           | $20,182.50  |
-| 3.3 Secure Data Integration     | 6/9/2025           | 6/23/2025           | 11 days          | 264           | $20,700.00   |
-| 4. Development and Implementation | 6/30/2025          | 8/11/2025           | 31 days          | 888           | $109,135.00  |
-| 4.1 Code Development and Prototyping | 6/30/2025          | 7/21/2025           | 16 days          | 384           | $42,435.00   |
-| 4.2 Testing and Feedback        | 7/14/2025          | 7/29/2025           | 12 days          | 288           | $33,350.00   |
-| 4.3 Final Integration           | 7/30/2025          | 8/11/2025           | 9 days           | 216           | $33,350.00   |
-
+| Task Name                       | Planned Start Date | Planned Finish Date | Planned Duration | Planned Hours | Planned Cost | Planned Resource Cost |
+|---------------------------------|--------------------|---------------------|------------------|---------------|--------------|-----------------------|
+| 1. Project Management(PM)       | 2/25/2025          | 4/1/2025            | 25 days          | 500 hours     | $35,000      | $10,000              |
+| 1.1 Project Initiation and Planning | 2/25/2025          | 3/10/2025           | 10 days          | 150 hours     | $10,000      | $2,500               |
+| 1.2 Risk Management             | 3/10/2025          | 3/19/2025           | 8 days           | 100 hours     | $6,500       | $1,500               |
+| 1.3 Stakeholder Communication   | 3/20/2025          | 3/28/2025           | 8 days           | 125 hours     | $8,750       | $2,500               |
+| 1.4 Project Tracking and Reporting | 4/1/2025           | 4/1/2025            | 1 day            | 125 hours     | $9,750       | $3,500               |
+| 2. Requirement Analysis and Planning | 4/1/2025           | 5/6/2025            | 26 days          | 750 hours     | $42,500      | $12,500              |
+| 2.1 Gather Requirements         | 4/1/2025           | 4/11/2025           | 9 days           | 200 hours     | $10,000      | $2,000               |
+| 2.2 Define System Functionalities | 4/14/2025          | 4/22/2025           | 8 days           | 250 hours     | $14,000      | $4,000               |
+| 2.3 Document Data Storage Needs | 4/24/2025          | 5/3/2025            | 9 days           | 300 hours     | $18,500      | $6,500               |
+| 3. System Design and Architeture | 5/14/2025          | 6/23/2025           | 29 days          | 1000 hours    | $72,500      | $17,500              |
+| 3.1 Database Design and Development | 5/14/2025          | 5/28/2025           | 11 days          | 350 hours     | $24,250      | $5,000               |
+| 3.2 UI/UX Design and Testing    | 5/22/2025          | 6/6/2025            | 12 days          | 250 hours     | $19,750      | $6,000               |
+| 3.3 Secure Data Integration     | 6/9/2025           | 6/23/2025           | 11 days          | 200 hours     | $13,500      | $2,500               |
+| 4. Development and Implementation | 6/30/2025          | 8/11/2025           | 31 days          | 1800 hours    | $148,000     | $40,000              |
+| 4.1 Code Development and Prototyping | 6/30/2025          | 7/21/2025           | 16 days          | 500 hours     | $40,000      | $10,000              |
+| 4.2 Testing and Feedback        | 7/14/2025          | 7/29/2025           | 12 days          | 288 hours     | $33,350      | $0                   |
+| 4.3 Final Integration           | 7/30/2025          | 8/11/2025           | 9 days           | 216 hours     | $33,350      | $0                   |
 ## Team Contract
 [Download Contract](https://github.com/CJdaRacc/MNat.ai/blob/main/Team%20Contract.md)
 
 ## References
 *None*
-
