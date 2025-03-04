@@ -1,5 +1,5 @@
  # MNat.ai - Natural Disaster AI
- ![Logo](https://imgur.com/a/heBcjNi)
+ ![Logo](https://github.com/CJdaRacc/MNat.ai/blob/main/LOGO.png)
 
 **Table of Contents**
 1. [About the project](#about-the-project)
@@ -22,4 +22,4 @@ In this milestone, we are formalizing our project idea by creating our project c
 
 ## Milestone 2
 In this milestone we continue with planning actives. We outline our tasks using a workbreak down structure, network diagram and gnatt chart. We begin to document user requirements by creating a detailed requirements list and use cases. We also evaluate similar systems, and highlight external APIs that will be integrated.
-[Milestone 2 Details](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/milestone-2.md)
+[Milestone 2 Details](https://github.com/CJdaRacc/MNat.ai/blob/main/milestone%202.md)
