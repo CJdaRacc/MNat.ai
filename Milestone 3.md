@@ -1,7 +1,7 @@
 # **PROJECT CHARTER**
 
 **Table of Contents**
-1. [Meeting Minutes](#project-charter)
+1. [Meeting Minutes](#Meeting-Minutes)
 2. [Data Flow Diagram](#swot-analysis)
 3. [Request for Quote](#budget-scope--time-estimates)
 4. [Interactive wireframe](#team-contract)
