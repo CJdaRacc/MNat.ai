@@ -1,4 +1,4 @@
-# **PROJECT CHARTER**
+# **MILESTONE 3**
 
 **Table of Contents**
 1. [Meeting Minutes](#Meeting-Minutes)
