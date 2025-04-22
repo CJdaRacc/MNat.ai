@@ -246,7 +246,7 @@ The projects are being done according to the instructions and improved to meet t
 
 ## MNat.ai Poster presentation
 
-![MNat.ai Poster presentation](https://youtu.be/m6dXoNuk4Nk)
+[![Watch the video](https://img.youtube.com/vi/m6dXoNuk4Nk/0.jpg)](https://www.youtube.com/watch?v=m6dXoNuk4Nk)
 
 ## References
 *None*
